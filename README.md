@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Us:
   Welcome to the Nexus team's GitHub! We are a group of dedicated tech enthusiasts from NSCET Theni. We're committed to driving innovation by mastering and leveraging the latest technologies. Our mission is to develop cutting-edge solutions that address real-world challenges, transforming ideas into impactful realities. Explore our repositories to see our work on emerging tech trends, collaboration projects, and more. Join us on our journey to shape the future!<br>
 
 
